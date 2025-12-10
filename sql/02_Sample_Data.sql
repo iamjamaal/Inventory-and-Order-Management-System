@@ -1,3 +1,4 @@
+-- Sample Data for ecommerce_db
 USE ecommerce_db;
 
 
